@@ -4,6 +4,7 @@ class PoohRongo {
     const RONGOS = [
         '<a href="https://kids.yahoo.co.jp/games/sports/013.html" target="_blank">https://kids.yahoo.co.jp/games/sports/013.html</a>',
         '笑顔でいることが<br>良い循環を生む',
+        '難しいことに<br>挑戦することには<br>大きな意味が<br>あるのです',
     ];
 
     public function getRandomRongo()
