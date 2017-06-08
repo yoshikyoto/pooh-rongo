@@ -6,6 +6,7 @@ class PoohRongo {
         '笑顔でいることが<br>良い循環を生む',
         '難しいことに<br>挑戦することには<br>大きな意味が<br>あるのです',
         '1日の終わりに<br>3つの反省を<br>しましょう',
+        '考えすぎずに<br>はじめの1歩を<br>踏み出しましょう',
     ];
 
     public function getRandomRongo()
