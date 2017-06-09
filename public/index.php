@@ -7,6 +7,7 @@ class PoohRongo {
         '難しいことに<br>挑戦することには<br>大きな意味が<br>あるのです',
         '1日の終わりに<br>3つの反省を<br>しましょう',
         '考えすぎずに<br>はじめの1歩を<br>踏み出しましょう',
+        '多くの言葉よりも<br>ひとつの行動が<br>人を動かす',
     ];
 
     public function getRandomRongo()
@@ -21,5 +22,5 @@ $pooh = new PoohRongo(); ?>
 <head><title>くまのプーさん心が変わる「論語」</title></head>
 <body>
 <font size="+5"><?php echo $pooh->getRandomRongo(); ?></font>
-<body>
+</body>
 </html>
