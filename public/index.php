@@ -8,6 +8,7 @@ class PoohRongo {
         '1日の終わりに<br>3つの反省を<br>しましょう',
         '考えすぎずに<br>はじめの1歩を<br>踏み出しましょう',
         '多くの言葉よりも<br>ひとつの行動が<br>人を動かす',
+        '今が辛くても<br>がんばったことは<br>必ずあとで<br>生きてくる',
     ];
 
     public function getRandomRongo()
