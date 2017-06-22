@@ -10,6 +10,7 @@ class PoohRongo {
         '多くの言葉よりも<br>ひとつの行動が<br>人を動かす',
         '今が辛くても<br>がんばったことは<br>必ずあとで<br>生きてくる',
         '小さくても<br>自分ができる<br>ことから<br>始めましょう',
+        '正しいことも<br>ほど良くしなければ<br>正しくなくなって<br>しまうのです',
     ];
 
     public function getRandomRongo()
