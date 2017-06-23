@@ -11,6 +11,7 @@ class PoohRongo {
         '今が辛くても<br>がんばったことは<br>必ずあとで<br>生きてくる',
         '小さくても<br>自分ができる<br>ことから<br>始めましょう',
         '正しいことも<br>ほど良くしなければ<br>正しくなくなって<br>しまうのです',
+        '挫折<br>してからでも<br>遅いということは<br>ないのです',
     ];
 
     public function getRandomRongo()
