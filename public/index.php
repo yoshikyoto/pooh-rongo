@@ -12,6 +12,7 @@ class PoohRongo {
         '小さくても<br>自分ができる<br>ことから<br>始めましょう',
         '正しいことも<br>ほど良くしなければ<br>正しくなくなって<br>しまうのです',
         '挫折<br>してからでも<br>遅いということは<br>ないのです',
+        '反省をする人は<br>前に進み<br>反省のない人は<br>止まるだけ',
     ];
 
     public function getRandomRongo()
